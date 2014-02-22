@@ -21,24 +21,24 @@ npm install -g nave
 
 # homebrew!
 # you need the code CLI tools YOU FOOL.
-ruby < (curl -fsSkL raw.github.com/mxcl/homebrew/go)
+# ruby < (curl -fsSkL raw.github.com/mxcl/homebrew/go)
 
 # https://github.com/rupa/z
 # z binary is already referenced from .bash_profile
-mkdir -p ~/code
-cd ~/code
-git clone https://github.com/rupa/z.git
-chmod +x ~/code/z/z.sh
+# mkdir -p ~/code
+# cd ~/code
+# git clone https://github.com/rupa/z.git
+# chmod +x ~/code/z/z.sh
 
 # https://github.com/dronir/SpotifyControl
 # Spotify Controll Script
-cd ~/code
-git clone git://github.com/dronir/SpotifyControl.git
+# cd ~/code
+# git clone git://github.com/dronir/SpotifyControl.git
 
 # https://github.com/jeroenbegyn/VLCControl
 # VLC Controll Script
-cd ~/code
-git clone git://github.com/jeroenbegyn/VLCControl.git
+# cd ~/code
+# git clone git://github.com/jeroenbegyn/VLCControl.git
 
 # for the c alias (syntax highlighted cat)
-sudo easy_install Pygments
+# sudo easy_install Pygments
